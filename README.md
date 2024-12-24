@@ -1,5 +1,5 @@
 <div align="left">
-    <a href="https://www.facebook.com/x3ef8">
+    <a href="https://www.facebook.com/Rence Martinez">
         <img src="https://img.shields.io/badge/-x3ef8-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
     <a href="https://user-badge.committers.top/philippines/0x3EF8">
@@ -18,10 +18,10 @@ const introduction = {
   profession: "Self-taught Full Stack Developer",
   location: "Philippines",
   passions: ["Building with the Full Stack", "Continuous Learning"],
-  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "MongoDB"],
-  portfolio: "https://0x3ef8.github.io/",
-  github: "https://github.com/0x3ef8",
-  socialMedia: ["https://0x3ef8.github.io/linktree"],
+  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "MongoDB", "MySQL", "PHP", "Phyton", "etc"],
+  portfolio: "https://YujiTech.github.io/",
+  github: "https://github.com/YujiTech",
+  socialMedia: ["https://YujiTech.github.io/linktree"],
   quote: "Programming knowledge is the key to unlocking the power of a god. ~ YujiTech"
 };
 
@@ -98,6 +98,6 @@ introduceMyself(introduction);
 </div>
 
 
-**Note:** I'm also continuously learning new things and expanding my skillset beyond the MERN stack. I'm not an expert in all of these technologies; I'm still a learner.
+**Note:** I'm also continuously learning new things and expanding my skillset beyond the Full stack. I'm not an expert in all of these technologies; I'm still a learner.
 
 
