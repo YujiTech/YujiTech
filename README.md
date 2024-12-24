@@ -1,11 +1,11 @@
 <div align="left">
     <a href="https://www.facebook.com/Rence Martinez">
-        <img src="https://img.shields.io/badge/-x3ef8-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
+        <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
     <a href="https://user-badge.committers.top/philippines/YujiYech">
         <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.top badge">
     </a>
-    <img align="right" src="https://komarev.com/ghpvc/?username=0x3ef8&label=Profile%20Views&color=565f89&style=flat" alt="Views">
+    <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
 
 <div align="center">
