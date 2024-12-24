@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
     <a href="[https://user-badge.committers.top/philippines/YujiYech.">
-        <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.top badge">
+        <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
@@ -51,7 +51,7 @@ introduceMyself(introduction);
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
