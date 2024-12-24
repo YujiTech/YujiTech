@@ -2,7 +2,7 @@
     <a href="https://www.facebook.com/Rence Martinez">
         <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
-    <a href="[https://user-badge.committers.top/philippines/YujiYech](https://user-badge.committers.top/philippines/USERNAME)">
+    <a href="[https://user-badge.committers.top/philippines/YujiYech.">
         <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.top badge">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
@@ -37,12 +37,12 @@ introduceMyself(introduction);
 ### GitHub Stats 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x3ef8&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x3ef8&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x3ef8&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x3ef8&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yujitech&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
 
 
@@ -51,7 +51,7 @@ introduceMyself(introduction);
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="PHP" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
