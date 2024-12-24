@@ -1,8 +1,8 @@
 <div align="left">
     <a href="https://www.facebook.com/Rence Martinez">
-        <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
+        <img src="https://img.shields.io/badge/-Rence Marrinez-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
-    <a href="[https://user-badge.committers.top/philippines/YujiYech.">
+    <a href="[https://user-badge.committers.top/philippines/YujiYech.]">
         <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
