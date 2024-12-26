@@ -2,7 +2,7 @@
     <a href="https://www.facebook.com/YujiTech">
         <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
     </a>
-    <a href="[https://user-badge.committers.top/philippines/USERNAME.]">
+    <a href="[https://user-badge.committers.top/philippines/YujiTech.]">
         <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.badge">
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
