@@ -1,9 +1,35 @@
-> Want to know what I'm currently working on ?\
-> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
-> 
-> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but I'm planning to work back on it once I finish [mizu.js](https://mizu.sh), which with [matcha.css](https://matcha.mizu.sh) and [@libs](https://github.com/lowlighter/libs) combined will make it easier to manage !*
-> 
-> *Thanks for your patience and continued support !*
+<div align="left">
+    <a href="https://www.facebook.com/YujiTech">
+        <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
+    </a>
+    <a href="[https://user-badge.committers.top/philippines/YujiTech.]">
+        <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.badge">
+    </a>
+    <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
+</div>
+
+<div align="center">
+    <img width="100%" src="https://github.com/0x3ef8/0x3ef8/blob/main/images/header_.png" />
+</div>
+
+```JavaScript
+const introduction = {
+  name: "John Lawrence V. Martinez",
+  profession: "Self-taught Full Stack Developer",
+  location: "Philippines",
+  passions: ["Building with the Full Stack", "Continuous Learning"],
+  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "MongoDB", "MySQL", "PHP", "Phyton", "etc"],
+  portfolio: "https://YujiTech.github.io/",
+  github: "https://github.com/YujiTech",
+  socialMedia: ["https://YujiTech.github.io/linktree"],
+  quote: "Programming knowledge is the key to unlocking the power of a god. ~ YujiTech"
+};
+
+const introduceMyself = ({ name, profession, location, passions, skills, portfolio, github, socialMedia, quote }) => {
+  console.log(`Hi there, I'm ${name}, a ${profession} from ${location}. My passion lies in ${passions[0]} and ${passions[1]}, and I continuously strive to expand my skillset and knowledge in ${skills.join(", ")} and other programming languages. I am proud to give back to the community by actively contributing to open-source projects through my Github profile at ${github}, and my portfolio at ${portfolio} showcases a small portion of my work. If you're interested in my personal and professional journey, feel free to connect with me on my social media accounts at ${socialMedia.join(", ")}. 
+
+One of my favorite quotes is "${quote}", and I believe that with dedication and hard work, anything is possible. Let's connect and create something amazing together!"`);
+};
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
