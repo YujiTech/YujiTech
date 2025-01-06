@@ -8,9 +8,30 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
 
+```JavaScript
+const introduction = {
+  name: "John Lawrence V. Martinez",
+  profession: "Self-taught Full Stack Developer",
+  location: "Philippines",
+  passions: ["Building with the Full Stack", "Continuous Learning"],
+  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "MongoDB", "MySQL", "PHP", "Phyton", "etc"],
+  portfolio: "https://YujiTech.github.io/",
+  github: "https://github.com/YujiTech",
+  socialMedia: ["https://YujiTech.github.io/linktree"],
+  quote: "Programming knowledge is the key to unlocking the power of a god. ~ YujiTech"
+};
+
+const introduceMyself = ({ name, profession, location, passions, skills, portfolio, github, socialMedia, quote }) => {
+  console.log(`Hi there, I'm ${name}, a ${profession} from ${location}. My passion lies in ${passions[0]} and ${passions[1]}, and I continuously strive to expand my skillset and knowledge in ${skills.join(", ")} and other programming languages. I am proud to give back to the community by actively contributing to open-source projects through my Github profile at ${github}, and my portfolio at ${portfolio} showcases a small portion of my work. If you're interested in my personal and professional journey, feel free to connect with me on my social media accounts at ${socialMedia.join(", ")}. 
+
+One of my favorite quotes is "${quote}", and I believe that with dedication and hard work, anything is possible. Let's connect and create something amazing together!"`);
+};
+
+introduceMyself(introduction);
+```
 
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/yujirence">YujiTech</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/yujirence">YujiTech</a> that shares everything I learn about programming.
 
 </p>
 
@@ -149,11 +170,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yujitech&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
+ 
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
