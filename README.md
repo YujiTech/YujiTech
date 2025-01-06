@@ -16,7 +16,7 @@
 </div> 
  
 <p align="justify">
-welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/yujirence">YujiTech</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 8 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/yujirence">YujiTech</a> that shares everything I learn about programming.
 
 </p>
  
