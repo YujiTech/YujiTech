@@ -7,6 +7,13 @@
     </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 </div>
+
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+YujiTech;BSIT+Student; Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="BSIT Student, front-end developer, Power Metal lover"></a> 
+</div> 
  
 <p align="justify">
 welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/yujirence">YujiTech</a> that shares everything I learn about programming.
