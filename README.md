@@ -145,19 +145,4 @@ Welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, 
  </tr>
 </table>
 
-### GitHub Stats 
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
-</div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YujiTech&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yujitech&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
-</div>
  
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
