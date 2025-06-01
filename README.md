@@ -113,8 +113,8 @@ Welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, 
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=reactjs" width="48" height="48" alt="Reactjs" />
+      <br>Reactjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
