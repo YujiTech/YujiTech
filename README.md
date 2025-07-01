@@ -1,22 +1,13 @@
-<div align="left">
-    <a href="https://www.facebook.com/YujiTech">
-        <img src="https://img.shields.io/badge/-YujiTech-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/Rence Martinez.dev" alt="Stalk Me, also click FOLLOW button">
-    </a>
-    <a href="[https://user-badge.committers.top/philippines/YujiTech.]">
-        <img src="https://user-badge.committers.top/philippines/YujiTech.svg" alt="committers.badge">
-    </a>
-    <img align="right" src="https://komarev.com/ghpvc/?username=YujiTech&label=Profile%20Views&color=565f89&style=flat" alt="Views">
+
 </div>
 
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+YujiTech;BSIT+Student; Software+Developer;Dog+Lover+:3;Anime+Lover+%3C3;UI/UX Designer" alt="BSIT Student, Software developer, Anime lover"></a> 
-</div> 
+ 
  
 <p align="justify">
-Welcome to my GitHub Page. I am John Lawrence V. Martinez and now BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 8 years and worked with many languages and technologies. Also, inside Tiktok, I have a media called <a href="https://vm.tiktok.com/ZS657GdeG/">YujiTech</a> that shares everything I learn about programming.
+Welcome to my GitHub. I am John Lawrence V. Martinez and now 2nd year BSIT student, I learn new things about programming and teach these things to others, I have been programming for almost more than 8 years and worked with many languages and technologies. Also, inside Tiktok, I have a media called <a href="https://vm.tiktok.com/ZS657GdeG/">YujiTech</a> that shares everything I learn about programming.
 
 </p>
 
